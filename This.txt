@@ -1,0 +1,2 @@
+dgfugtyrig
+This is a bugfix which should be visible only in bugfix
