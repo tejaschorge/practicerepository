@@ -1,2 +1,3 @@
 dgfugtyrig
 This is a bugfix which should be visible only in bugfix
+New line again
